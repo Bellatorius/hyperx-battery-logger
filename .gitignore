@@ -1,0 +1,12 @@
+# Secrets and personal config
+google-*.json
+config.json
+
+# Personal data (battery readings, activity log)
+battery_log.csv
+battery_log.tmp
+battery_monitor.log*
+
+# Python
+__pycache__/
+*.pyc
